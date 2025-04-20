@@ -44,7 +44,7 @@ function App() {
       <header>
         <h1>Farewell Task Helper</h1>
         <p>pick and choose themes for your seniors farewell tasks</p>
-        <p>when you are done with that send them slams at <h2><a href='https://scene.net.in/'>scene.net.it</a></h2></p>
+        <p>When you're done spreading smiles 🎭, send your heartfelt slams 💌 to them at <h2><a href='https://scene.net.in/'>scene.net.in</a></h2></p>
       </header>
 
       <main>
