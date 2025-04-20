@@ -42,8 +42,8 @@ function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>Personality Task Matcher</h1>
-        <p>Select personality traits to find matching tasks</p>
+        <h1>Farewell Task Helper</h1>
+        <p>pick and choose themes for your seniors farewell</p>
       </header>
 
       <main>
@@ -68,7 +68,7 @@ function App() {
       </main>
       
       <footer>
-        <p>© {new Date().getFullYear()} Personality Task Matcher App</p>
+        <p>© {new Date().getFullYear()} Farewell Bakchodi</p>
       </footer>
     </div>
   );

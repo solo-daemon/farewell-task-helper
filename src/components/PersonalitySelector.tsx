@@ -11,7 +11,7 @@ interface PersonalitySelectorProps {
   }: PersonalitySelectorProps) {
     return (
       <div className="personality-selector">
-        <h2>Select Personality Traits</h2>
+        <h2>Themes</h2>
         <div className="personality-grid">
           {personalities.map(personality => (
             <button

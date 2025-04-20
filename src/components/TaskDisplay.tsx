@@ -8,7 +8,7 @@ interface TaskDisplayProps {
 function TaskDisplay({ matchedTasks }: TaskDisplayProps) {
   return (
     <div className="task-display">
-      <h2>Matched Tasks</h2>
+      <h2>suggested tasks</h2>
       {matchedTasks.length > 0 ? (
         <div className="task-list">
           {matchedTasks.map((task, index) => (
