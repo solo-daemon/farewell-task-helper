@@ -1,0 +1,1541 @@
+{
+  "personalityTraits": [
+    "Shy Soul",
+    "Filmy Romantic",
+    "Public Performer",
+    "Gym Showoff",
+    "Chaotic Joker",
+    "Prankster Supreme",
+    "Personal Space Invader",
+    "Makeup Master",
+    "Condom Crusader",
+    "Cafe King/Queen",
+    "Cringe Creator",
+    "Fake Gay Icon",
+    "Food Bandit",
+    "Traffic Blocker",
+    "Bold Flirt",
+    "Papa Caller",
+    "Item Dancer",
+    "Judgmental Genius",
+    "Bhojpuri Rockstar",
+    "Daredevil Dhamaka",
+    "Bollywood Fanatic",
+    "Cheesy Proposal Artist",
+    "Overconfident Influencer",
+    "Emotional Drama Queen",
+    "Unfiltered Comedian",
+    "Loud Rebel",
+    "KLPD King",
+    "Kanta Bai Roleplayer",
+    "Embaraasment Lover",
+    "Stage Parrot"
+  ],
+  "tasks": [
+    {
+      "text": "Condom necklace pehenke 10 logon se selfie lo",
+      "personalities": [
+        "Chaotic Joker",
+        "Traffic Blocker"
+      ]
+    },
+    {
+      "text": "CCD mein loudspeaker pe apni crush ke liye gaana chalao",
+      "personalities": [
+        "Stage Parrot",
+        "Makeup Master"
+      ]
+    },
+    {
+      "text": "Gym ke beech mein towel leke item song par thumke lagao",
+      "personalities": [
+        "Gym Showoff",
+        "Prankster Supreme"
+      ]
+    },
+    {
+      "text": "Ek random ladke ko propose karo SRK style, full kneel down",
+      "personalities": [
+        "Cafe King/Queen",
+        "Fake Gay Icon"
+      ]
+    },
+    {
+      "text": "Ek ladki se pucho \u2018aapka breakup ka reason kya tha?\u2019",
+      "personalities": [
+        "Fake Gay Icon",
+        "Item Dancer",
+        "Kanta Bai Roleplayer"
+      ]
+    },
+    {
+      "text": "College gate par khade hokar 'Main virgin hoon!' chillaao",
+      "personalities": [
+        "Emotional Drama Queen",
+        "Cringe Creator",
+        "Cafe King/Queen"
+      ]
+    },
+    {
+      "text": "Principal ke office ke saamne condom se balloon banaake chhodo",
+      "personalities": [
+        "Overconfident Influencer",
+        "Item Dancer",
+        "KLPD King"
+      ]
+    },
+    {
+      "text": "Canteen mein sabke saamne makeup tutorial do boys ke liye",
+      "personalities": [
+        "Chaotic Joker",
+        "Embaraasment Lover"
+      ]
+    },
+    {
+      "text": "Ek senior ke papa ko call karke \u2018Sir, aap handsome ho!\u2019 bolo",
+      "personalities": [
+        "Fake Gay Icon",
+        "Makeup Master",
+        "Condom Crusader"
+      ]
+    },
+    {
+      "text": "Cafeteria ke mic pe apni bank balance announce karo",
+      "personalities": [
+        "Papa Caller",
+        "Loud Rebel",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "College corridor mein lipstick lagake gym jayein aur flex karo",
+      "personalities": [
+        "Filmy Romantic",
+        "Kanta Bai Roleplayer"
+      ]
+    },
+    {
+      "text": "Bhojpuri accent mein sabko line maarte hue gym tour karo",
+      "personalities": [
+        "Item Dancer",
+        "Traffic Blocker"
+      ]
+    },
+    {
+      "text": "Ek ladki ke liye loud mein 'Tujhme Rab Dikhta Hai' gaana gao",
+      "personalities": [
+        "Bold Flirt",
+        "Unfiltered Comedian",
+        "Overconfident Influencer"
+      ]
+    },
+    {
+      "text": "Kisi random bandi ke saamne twerking karo bina explain kiye",
+      "personalities": [
+        "Bollywood Fanatic",
+        "Cheesy Proposal Artist",
+        "Fake Gay Icon"
+      ]
+    },
+    {
+      "text": "Traffic light pe sabke saamne bhikh maangne ka natak karo",
+      "personalities": [
+        "Condom Crusader",
+        "Judgmental Genius"
+      ]
+    },
+    {
+      "text": "Canteen ke table pe chadhke 'Main Sheela hoon!' dance karo",
+      "personalities": [
+        "Bold Flirt",
+        "KLPD King"
+      ]
+    },
+    {
+      "text": "Classroom ke andar entry lete waqt 'Don aa gaya' chillaao",
+      "personalities": [
+        "Kanta Bai Roleplayer",
+        "Unfiltered Comedian",
+        "Public Performer"
+      ]
+    },
+    {
+      "text": "Hostel gate ke saamne gay style mein ramp walk karo",
+      "personalities": [
+        "Papa Caller",
+        "Unfiltered Comedian"
+      ]
+    },
+    {
+      "text": "Dus logon ke paas jaake pucho \u2018Tumhare ex ka naam kya hai?\u2019",
+      "personalities": [
+        "Cafe King/Queen",
+        "Traffic Blocker"
+      ]
+    },
+    {
+      "text": "CCD mein waiter se condom ka flavor puchho serious tone mein",
+      "personalities": [
+        "Filmy Romantic",
+        "Cheesy Proposal Artist"
+      ]
+    },
+    {
+      "text": "Apni friend ki mummy ko call karke rishta maango",
+      "personalities": [
+        "Traffic Blocker",
+        "Chaotic Joker",
+        "KLPD King"
+      ]
+    },
+    {
+      "text": "Principal se milne jaake unhe propose karo Bhojpuri mein",
+      "personalities": [
+        "Embaraasment Lover",
+        "Prankster Supreme"
+      ]
+    },
+    {
+      "text": "College ke CCTV ke samne jake seductive dance karo",
+      "personalities": [
+        "Filmy Romantic",
+        "Unfiltered Comedian"
+      ]
+    },
+    {
+      "text": "Ek teacher ke liye 'Tip Tip Barsa Pani' gaana gao",
+      "personalities": [
+        "Gym Showoff",
+        "Prankster Supreme",
+        "Public Performer"
+      ]
+    },
+    {
+      "text": "Gym ke dumbbells uthake 'Yeh mere pyaar ka wajan hai' bolo",
+      "personalities": [
+        "Bhojpuri Rockstar",
+        "Embaraasment Lover"
+      ]
+    },
+    {
+      "text": "Canteen mein bina puche kisi ki thali se kha lo aur thank you bolo",
+      "personalities": [
+        "Traffic Blocker",
+        "Papa Caller"
+      ]
+    },
+    {
+      "text": "Cafeteria mein apne ex ke naam ki dard bhari poetry sunao",
+      "personalities": [
+        "Papa Caller",
+        "Fake Gay Icon",
+        "Bollywood Fanatic"
+      ]
+    },
+    {
+      "text": "Bike pe reverse mein baithke campus ka ek round lo",
+      "personalities": [
+        "Filmy Romantic",
+        "Prankster Supreme"
+      ]
+    },
+    {
+      "text": "Girls hostel ke bahar dance karte hue dard bhari awaaz mein chillaao",
+      "personalities": [
+        "Kanta Bai Roleplayer",
+        "Judgmental Genius",
+        "Cafe King/Queen"
+      ]
+    },
+    {
+      "text": "Apni shirt pe condom chipka ke pura din ghoomo",
+      "personalities": [
+        "Emotional Drama Queen",
+        "Daredevil Dhamaka",
+        "Judgmental Genius"
+      ]
+    },
+    {
+      "text": "Boys washroom mein jakar ladki ki awaaz mein \u2018occupied!\u2019 bolo",
+      "personalities": [
+        "Unfiltered Comedian",
+        "Daredevil Dhamaka"
+      ]
+    },
+    {
+      "text": "CCD ke andar mic se sabke breakup stories maangna shuru karo",
+      "personalities": [
+        "Food Bandit",
+        "Traffic Blocker"
+      ]
+    },
+    {
+      "text": "Paas se guzarne wale har ladke ko compliment do in 5 min",
+      "personalities": [
+        "Overconfident Influencer",
+        "Loud Rebel"
+      ]
+    },
+    {
+      "text": "Footpath pe jaake traffic police ko dance kar ke distract karo",
+      "personalities": [
+        "Condom Crusader",
+        "Item Dancer",
+        "Fake Gay Icon"
+      ]
+    },
+    {
+      "text": "Library mein ghuske 'Love You Pappu' 3 baar zor se bolo",
+      "personalities": [
+        "Embaraasment Lover",
+        "Kanta Bai Roleplayer"
+      ]
+    },
+    {
+      "text": "Makeup lagake gym instructor se 'meri eyebrows sahi hai?' puchho",
+      "personalities": [
+        "Bhojpuri Rockstar",
+        "Fake Gay Icon",
+        "Personal Space Invader"
+      ]
+    },
+    {
+      "text": "CCD mein jaake ek banda/bandi ko propose karo condom gift ke saath",
+      "personalities": [
+        "Embaraasment Lover",
+        "Makeup Master",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "Apne teacher ke saamne kneel down karke \u2018Marry me please\u2019 bolo",
+      "personalities": [
+        "Chaotic Joker",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "Apne doston ke saamne paan mooh mein bhar ke gaana gao",
+      "personalities": [
+        "Judgmental Genius",
+        "Makeup Master"
+      ]
+    },
+    {
+      "text": "Dost ke papa ko call karo aur unki shaadi ka proposal do",
+      "personalities": [
+        "Judgmental Genius",
+        "Emotional Drama Queen"
+      ]
+    },
+    {
+      "text": "Principal ke saamne gaana gao 'Ek ladki bheegi bhaagi si\u2026'",
+      "personalities": [
+        "Traffic Blocker",
+        "KLPD King"
+      ]
+    },
+    {
+      "text": "Dus strangers ko hug karo aur bolo \u2018It\u2019s Hug Day everyday!\u2019",
+      "personalities": [
+        "Embaraasment Lover",
+        "Papa Caller",
+        "Gym Showoff"
+      ]
+    },
+    {
+      "text": "Random logo se poochho \u2018Tumne first baar kab kiya tha?\u2019",
+      "personalities": [
+        "Shy Soul",
+        "Papa Caller"
+      ]
+    },
+    {
+      "text": "College ke andar ek baar 'Main pagal hoon!' ka drama karo",
+      "personalities": [
+        "Makeup Master",
+        "Cheesy Proposal Artist",
+        "Emotional Drama Queen"
+      ]
+    },
+    {
+      "text": "Apne friend ke boyfriend/girlfriend ko call karke flirt karo",
+      "personalities": [
+        "Embaraasment Lover",
+        "Condom Crusader",
+        "Cafe King/Queen"
+      ]
+    },
+    {
+      "text": "Canteen ke sabse khaas table par condom ka display lagao",
+      "personalities": [
+        "Traffic Blocker",
+        "Fake Gay Icon",
+        "Loud Rebel"
+      ]
+    },
+    {
+      "text": "Ek ladki ko propose karo aur uske haan/naa ka live reaction record karo",
+      "personalities": [
+        "Loud Rebel",
+        "Daredevil Dhamaka",
+        "Bollywood Fanatic"
+      ]
+    },
+    {
+      "text": "Apne senior ke bag mein condom slip karo aur bolo \u2018Surprise!\u2019",
+      "personalities": [
+        "KLPD King",
+        "Bhojpuri Rockstar"
+      ]
+    },
+    {
+      "text": "toilet mein papa ko call karke announce karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Traffic Blocker",
+        "Filmy Romantic",
+        "Unfiltered Comedian"
+      ]
+    },
+    {
+      "text": "library mein lipstick lagake confess karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Food Bandit",
+        "Bhojpuri Rockstar",
+        "Daredevil Dhamaka"
+      ]
+    },
+    {
+      "text": "canteen mein papa ko call karke shout karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Embaraasment Lover",
+        "Personal Space Invader",
+        "Cheesy Proposal Artist"
+      ]
+    },
+    {
+      "text": "gym mein lipstick lagake ramp walk karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Papa Caller",
+        "Embaraasment Lover"
+      ]
+    },
+    {
+      "text": "toilet mein bank slip leke ramp walk karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Papa Caller",
+        "Item Dancer"
+      ]
+    },
+    {
+      "text": "gym mein SRK pose mein ramp walk karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Embaraasment Lover",
+        "Bollywood Fanatic"
+      ]
+    },
+    {
+      "text": "library mein condom leke confess karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Daredevil Dhamaka",
+        "Fake Gay Icon"
+      ]
+    },
+    {
+      "text": "corridor mein condom leke lecture do aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Unfiltered Comedian",
+        "Stage Parrot",
+        "Fake Gay Icon"
+      ]
+    },
+    {
+      "text": "college gate mein bank slip leke shout karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Chaotic Joker",
+        "Cringe Creator",
+        "Traffic Blocker"
+      ]
+    },
+    {
+      "text": "college gate mein romantic awaaz mein poochho aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Food Bandit",
+        "Cringe Creator"
+      ]
+    },
+    {
+      "text": "corridor mein papa ko call karke poochho aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Item Dancer",
+        "Papa Caller"
+      ]
+    },
+    {
+      "text": "traffic light mein item song bajake propose karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Bold Flirt",
+        "Public Performer",
+        "Loud Rebel"
+      ]
+    },
+    {
+      "text": "college gate mein item song bajake lecture do aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Shy Soul",
+        "Item Dancer"
+      ]
+    },
+    {
+      "text": "gym mein condom leke lecture do aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Chaotic Joker",
+        "Emotional Drama Queen",
+        "KLPD King"
+      ]
+    },
+    {
+      "text": "canteen mein item song bajake flirt karo aur bolo 'breakup ka reason'",
+      "personalities": [
+        "Gym Showoff",
+        "Public Performer"
+      ]
+    },
+    {
+      "text": "corridor mein condom leke flirt karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Public Performer",
+        "Bollywood Fanatic",
+        "Bold Flirt"
+      ]
+    },
+    {
+      "text": "college gate mein item song bajake ramp walk karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Stage Parrot",
+        "Daredevil Dhamaka"
+      ]
+    },
+    {
+      "text": "canteen mein papa ko call karke makeup karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Bold Flirt",
+        "Prankster Supreme"
+      ]
+    },
+    {
+      "text": "CCD mein condom leke lecture do aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Judgmental Genius",
+        "Cheesy Proposal Artist"
+      ]
+    },
+    {
+      "text": "CCD mein SRK pose mein poochho aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Chaotic Joker",
+        "Filmy Romantic",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "library mein item song bajake makeup karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Cheesy Proposal Artist",
+        "Fake Gay Icon",
+        "Chaotic Joker"
+      ]
+    },
+    {
+      "text": "CCD mein papa ko call karke announce karo aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Filmy Romantic",
+        "Traffic Blocker",
+        "Cafe King/Queen"
+      ]
+    },
+    {
+      "text": "college gate mein condom leke poochho aur bolo 'breakup ka reason'",
+      "personalities": [
+        "Bhojpuri Rockstar",
+        "Gym Showoff"
+      ]
+    },
+    {
+      "text": "library mein bank slip leke confess karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Filmy Romantic",
+        "Chaotic Joker",
+        "Overconfident Influencer"
+      ]
+    },
+    {
+      "text": "staircase mein SRK pose mein shout karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Cheesy Proposal Artist",
+        "Stage Parrot",
+        "Cringe Creator"
+      ]
+    },
+    {
+      "text": "traffic light mein lipstick lagake makeup karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Personal Space Invader",
+        "Cheesy Proposal Artist",
+        "Condom Crusader"
+      ]
+    },
+    {
+      "text": "toilet mein romantic awaaz mein poochho aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Judgmental Genius",
+        "Public Performer",
+        "Emotional Drama Queen"
+      ]
+    },
+    {
+      "text": "library mein lipstick lagake shout karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Cafe King/Queen",
+        "Item Dancer"
+      ]
+    },
+    {
+      "text": "corridor mein item song bajake dance karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Cringe Creator",
+        "Filmy Romantic"
+      ]
+    },
+    {
+      "text": "canteen mein Bhojpuri accent mein poochho aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Traffic Blocker",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "CCD mein papa ko call karke lecture do aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "KLPD King",
+        "Traffic Blocker",
+        "Emotional Drama Queen"
+      ]
+    },
+    {
+      "text": "corridor mein item song bajake shout karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Bhojpuri Rockstar",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "canteen mein SRK pose mein shout karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Cringe Creator",
+        "Cheesy Proposal Artist",
+        "Filmy Romantic"
+      ]
+    },
+    {
+      "text": "toilet mein lipstick lagake flirt karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Bold Flirt",
+        "Overconfident Influencer",
+        "Makeup Master"
+      ]
+    },
+    {
+      "text": "traffic light mein Bhojpuri accent mein confess karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Shy Soul",
+        "Fake Gay Icon"
+      ]
+    },
+    {
+      "text": "toilet mein Bhojpuri accent mein lecture do aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Gym Showoff",
+        "Bollywood Fanatic",
+        "Bold Flirt"
+      ]
+    },
+    {
+      "text": "corridor mein SRK pose mein lecture do aur bolo 'tumhara pehla pyaar kaun tha'",
+      "personalities": [
+        "Cafe King/Queen",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "CCD mein lipstick lagake confess karo aur bolo 'breakup ka reason'",
+      "personalities": [
+        "Public Performer",
+        "Item Dancer",
+        "KLPD King"
+      ]
+    },
+    {
+      "text": "traffic light mein condom leke dance karo aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Papa Caller",
+        "Unfiltered Comedian",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "staircase mein romantic awaaz mein confess karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Bhojpuri Rockstar",
+        "Fake Gay Icon",
+        "Daredevil Dhamaka"
+      ]
+    },
+    {
+      "text": "toilet mein SRK pose mein flirt karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Judgmental Genius",
+        "Gym Showoff",
+        "Filmy Romantic"
+      ]
+    },
+    {
+      "text": "traffic light mein bank slip leke propose karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Fake Gay Icon",
+        "Food Bandit",
+        "Loud Rebel"
+      ]
+    },
+    {
+      "text": "college gate mein Bhojpuri accent mein makeup karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Traffic Blocker",
+        "Stage Parrot",
+        "Bhojpuri Rockstar"
+      ]
+    },
+    {
+      "text": "gym mein bank slip leke flirt karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Bollywood Fanatic",
+        "KLPD King",
+        "Shy Soul"
+      ]
+    },
+    {
+      "text": "CCD mein lipstick lagake poochho aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Prankster Supreme",
+        "Unfiltered Comedian"
+      ]
+    },
+    {
+      "text": "toilet mein condom leke makeup karo aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Public Performer",
+        "Unfiltered Comedian"
+      ]
+    },
+    {
+      "text": "CCD mein Bhojpuri accent mein poochho aur bolo 'breakup ka reason'",
+      "personalities": [
+        "Stage Parrot",
+        "Daredevil Dhamaka"
+      ]
+    },
+    {
+      "text": "college gate mein Bhojpuri accent mein flirt karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Overconfident Influencer",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "library mein SRK pose mein poochho aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Fake Gay Icon",
+        "KLPD King",
+        "Emotional Drama Queen"
+      ]
+    },
+    {
+      "text": "staircase mein lipstick lagake makeup karo aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Unfiltered Comedian",
+        "Overconfident Influencer",
+        "Emotional Drama Queen"
+      ]
+    },
+    {
+      "text": "corridor mein condom leke confess karo aur bolo 'breakup ka reason'",
+      "personalities": [
+        "Prankster Supreme",
+        "Filmy Romantic",
+        "Loud Rebel"
+      ]
+    },
+    {
+      "text": "gym mein SRK pose mein poochho aur bolo 'breakup ka reason'",
+      "personalities": [
+        "Fake Gay Icon",
+        "Unfiltered Comedian"
+      ]
+    },
+    {
+      "text": "traffic light mein bank slip leke lecture do aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Shy Soul",
+        "Unfiltered Comedian",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "staircase mein condom leke announce karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Overconfident Influencer",
+        "Filmy Romantic"
+      ]
+    },
+    {
+      "text": "corridor mein bank slip leke shout karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Bold Flirt",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "college gate mein lipstick lagake lecture do aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Shy Soul",
+        "Bhojpuri Rockstar",
+        "Loud Rebel"
+      ]
+    },
+    {
+      "text": "CCD mein Bhojpuri accent mein dance karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Personal Space Invader",
+        "Filmy Romantic"
+      ]
+    },
+    {
+      "text": "library mein romantic awaaz mein lecture do aur bolo 'tumhara pehla pyaar kaun tha'",
+      "personalities": [
+        "Chaotic Joker",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "library mein item song bajake flirt karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Loud Rebel",
+        "Bollywood Fanatic",
+        "Kanta Bai Roleplayer"
+      ]
+    },
+    {
+      "text": "college gate mein condom leke lecture do aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Personal Space Invader",
+        "Makeup Master"
+      ]
+    },
+    {
+      "text": "toilet mein lipstick lagake makeup karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Daredevil Dhamaka",
+        "Cringe Creator",
+        "Loud Rebel"
+      ]
+    },
+    {
+      "text": "college gate mein papa ko call karke confess karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Cringe Creator",
+        "Personal Space Invader",
+        "KLPD King"
+      ]
+    },
+    {
+      "text": "gym mein romantic awaaz mein makeup karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Prankster Supreme",
+        "Bold Flirt"
+      ]
+    },
+    {
+      "text": "library mein papa ko call karke poochho aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Prankster Supreme",
+        "Overconfident Influencer",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "canteen mein bank slip leke dance karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Loud Rebel",
+        "Traffic Blocker"
+      ]
+    },
+    {
+      "text": "canteen mein SRK pose mein poochho aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Fake Gay Icon",
+        "Kanta Bai Roleplayer",
+        "Bhojpuri Rockstar"
+      ]
+    },
+    {
+      "text": "canteen mein romantic awaaz mein announce karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Fake Gay Icon",
+        "Prankster Supreme",
+        "Chaotic Joker"
+      ]
+    },
+    {
+      "text": "canteen mein condom leke ramp walk karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Filmy Romantic",
+        "Bhojpuri Rockstar"
+      ]
+    },
+    {
+      "text": "CCD mein Bhojpuri accent mein poochho aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Item Dancer",
+        "Cafe King/Queen",
+        "Judgmental Genius"
+      ]
+    },
+    {
+      "text": "CCD mein condom leke poochho aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Shy Soul",
+        "Bollywood Fanatic"
+      ]
+    },
+    {
+      "text": "staircase mein papa ko call karke poochho aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Personal Space Invader",
+        "Unfiltered Comedian"
+      ]
+    },
+    {
+      "text": "library mein lipstick lagake dance karo aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Papa Caller",
+        "Daredevil Dhamaka",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "staircase mein Bhojpuri accent mein announce karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "KLPD King",
+        "Overconfident Influencer"
+      ]
+    },
+    {
+      "text": "toilet mein lipstick lagake dance karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Fake Gay Icon",
+        "Condom Crusader",
+        "Overconfident Influencer"
+      ]
+    },
+    {
+      "text": "CCD mein Bhojpuri accent mein announce karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Shy Soul",
+        "Item Dancer"
+      ]
+    },
+    {
+      "text": "traffic light mein papa ko call karke poochho aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Traffic Blocker",
+        "Item Dancer",
+        "Public Performer"
+      ]
+    },
+    {
+      "text": "CCD mein item song bajake shout karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Bollywood Fanatic",
+        "Public Performer"
+      ]
+    },
+    {
+      "text": "traffic light mein Bhojpuri accent mein poochho aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Emotional Drama Queen",
+        "Food Bandit",
+        "Overconfident Influencer"
+      ]
+    },
+    {
+      "text": "college gate mein lipstick lagake lecture do aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Food Bandit",
+        "Cafe King/Queen",
+        "Chaotic Joker"
+      ]
+    },
+    {
+      "text": "staircase mein Bhojpuri accent mein poochho aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Filmy Romantic",
+        "Daredevil Dhamaka"
+      ]
+    },
+    {
+      "text": "canteen mein bank slip leke lecture do aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Bollywood Fanatic",
+        "Condom Crusader"
+      ]
+    },
+    {
+      "text": "library mein papa ko call karke poochho aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Shy Soul",
+        "Loud Rebel",
+        "Bhojpuri Rockstar"
+      ]
+    },
+    {
+      "text": "library mein Bhojpuri accent mein lecture do aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Emotional Drama Queen",
+        "Public Performer",
+        "Bold Flirt"
+      ]
+    },
+    {
+      "text": "toilet mein condom leke announce karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Loud Rebel",
+        "Stage Parrot",
+        "Prankster Supreme"
+      ]
+    },
+    {
+      "text": "corridor mein papa ko call karke confess karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Food Bandit",
+        "Item Dancer"
+      ]
+    },
+    {
+      "text": "canteen mein bank slip leke confess karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Unfiltered Comedian",
+        "Shy Soul",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "corridor mein item song bajake flirt karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Personal Space Invader",
+        "Cheesy Proposal Artist",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "college gate mein Bhojpuri accent mein makeup karo aur bolo 'tumhara pehla pyaar kaun tha'",
+      "personalities": [
+        "Stage Parrot",
+        "Public Performer"
+      ]
+    },
+    {
+      "text": "traffic light mein Bhojpuri accent mein lecture do aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Traffic Blocker",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "college gate mein lipstick lagake dance karo aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Chaotic Joker",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "CCD mein Bhojpuri accent mein propose karo aur bolo 'breakup ka reason'",
+      "personalities": [
+        "Cringe Creator",
+        "KLPD King",
+        "Traffic Blocker"
+      ]
+    },
+    {
+      "text": "toilet mein condom leke lecture do aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Loud Rebel",
+        "Makeup Master",
+        "Personal Space Invader"
+      ]
+    },
+    {
+      "text": "corridor mein papa ko call karke dance karo aur bolo 'tumhara pehla pyaar kaun tha'",
+      "personalities": [
+        "Public Performer",
+        "Loud Rebel"
+      ]
+    },
+    {
+      "text": "corridor mein papa ko call karke announce karo aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Item Dancer",
+        "Prankster Supreme"
+      ]
+    },
+    {
+      "text": "CCD mein item song bajake flirt karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Bollywood Fanatic",
+        "Papa Caller",
+        "Personal Space Invader"
+      ]
+    },
+    {
+      "text": "corridor mein papa ko call karke makeup karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Filmy Romantic",
+        "Gym Showoff",
+        "Prankster Supreme"
+      ]
+    },
+    {
+      "text": "toilet mein item song bajake announce karo aur bolo 'tumhara pehla pyaar kaun tha'",
+      "personalities": [
+        "Fake Gay Icon",
+        "Loud Rebel",
+        "Personal Space Invader"
+      ]
+    },
+    {
+      "text": "staircase mein lipstick lagake dance karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Gym Showoff",
+        "Papa Caller",
+        "Bollywood Fanatic"
+      ]
+    },
+    {
+      "text": "CCD mein lipstick lagake propose karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Stage Parrot",
+        "Chaotic Joker",
+        "Item Dancer"
+      ]
+    },
+    {
+      "text": "gym mein lipstick lagake ramp walk karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Item Dancer",
+        "Gym Showoff",
+        "Personal Space Invader"
+      ]
+    },
+    {
+      "text": "traffic light mein condom leke lecture do aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Papa Caller",
+        "Embaraasment Lover",
+        "Kanta Bai Roleplayer"
+      ]
+    },
+    {
+      "text": "toilet mein romantic awaaz mein propose karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Bold Flirt",
+        "Papa Caller",
+        "Condom Crusader"
+      ]
+    },
+    {
+      "text": "traffic light mein item song bajake shout karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Bhojpuri Rockstar",
+        "Embaraasment Lover",
+        "Emotional Drama Queen"
+      ]
+    },
+    {
+      "text": "college gate mein Bhojpuri accent mein shout karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Cafe King/Queen",
+        "Cheesy Proposal Artist",
+        "Bold Flirt"
+      ]
+    },
+    {
+      "text": "staircase mein Bhojpuri accent mein flirt karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Bhojpuri Rockstar",
+        "KLPD King",
+        "Shy Soul"
+      ]
+    },
+    {
+      "text": "corridor mein romantic awaaz mein ramp walk karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Stage Parrot",
+        "Fake Gay Icon"
+      ]
+    },
+    {
+      "text": "staircase mein lipstick lagake confess karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Prankster Supreme",
+        "Daredevil Dhamaka"
+      ]
+    },
+    {
+      "text": "CCD mein bank slip leke shout karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Daredevil Dhamaka",
+        "Traffic Blocker",
+        "Cringe Creator"
+      ]
+    },
+    {
+      "text": "staircase mein condom leke propose karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Stage Parrot",
+        "Condom Crusader"
+      ]
+    },
+    {
+      "text": "corridor mein bank slip leke propose karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Prankster Supreme",
+        "Stage Parrot"
+      ]
+    },
+    {
+      "text": "CCD mein condom leke ramp walk karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Kanta Bai Roleplayer",
+        "Traffic Blocker",
+        "Emotional Drama Queen"
+      ]
+    },
+    {
+      "text": "college gate mein romantic awaaz mein propose karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Cringe Creator",
+        "Traffic Blocker",
+        "Filmy Romantic"
+      ]
+    },
+    {
+      "text": "gym mein SRK pose mein makeup karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Bold Flirt",
+        "Cafe King/Queen",
+        "Judgmental Genius"
+      ]
+    },
+    {
+      "text": "toilet mein Bhojpuri accent mein lecture do aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Chaotic Joker",
+        "Shy Soul"
+      ]
+    },
+    {
+      "text": "corridor mein item song bajake shout karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "KLPD King",
+        "Makeup Master",
+        "Chaotic Joker"
+      ]
+    },
+    {
+      "text": "college gate mein SRK pose mein propose karo aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Cringe Creator",
+        "Prankster Supreme",
+        "Gym Showoff"
+      ]
+    },
+    {
+      "text": "library mein papa ko call karke flirt karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Papa Caller",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "CCD mein condom leke makeup karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Traffic Blocker",
+        "Makeup Master",
+        "Gym Showoff"
+      ]
+    },
+    {
+      "text": "college gate mein condom leke propose karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Shy Soul",
+        "Makeup Master"
+      ]
+    },
+    {
+      "text": "college gate mein bank slip leke announce karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Unfiltered Comedian",
+        "Chaotic Joker"
+      ]
+    },
+    {
+      "text": "canteen mein papa ko call karke shout karo aur bolo 'tumhara pehla pyaar kaun tha'",
+      "personalities": [
+        "Overconfident Influencer",
+        "Bold Flirt"
+      ]
+    },
+    {
+      "text": "canteen mein item song bajake makeup karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Daredevil Dhamaka",
+        "Emotional Drama Queen",
+        "Unfiltered Comedian"
+      ]
+    },
+    {
+      "text": "library mein papa ko call karke dance karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Cringe Creator",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "corridor mein lipstick lagake ramp walk karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Bollywood Fanatic",
+        "KLPD King"
+      ]
+    },
+    {
+      "text": "canteen mein SRK pose mein makeup karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "KLPD King",
+        "Bold Flirt",
+        "Embaraasment Lover"
+      ]
+    },
+    {
+      "text": "traffic light mein SRK pose mein poochho aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Gym Showoff",
+        "Item Dancer"
+      ]
+    },
+    {
+      "text": "college gate mein romantic awaaz mein dance karo aur bolo 'breakup ka reason'",
+      "personalities": [
+        "Food Bandit",
+        "Cheesy Proposal Artist",
+        "Fake Gay Icon"
+      ]
+    },
+    {
+      "text": "traffic light mein papa ko call karke ramp walk karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Bold Flirt",
+        "Cringe Creator"
+      ]
+    },
+    {
+      "text": "toilet mein lipstick lagake ramp walk karo aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Gym Showoff",
+        "Stage Parrot",
+        "Shy Soul"
+      ]
+    },
+    {
+      "text": "staircase mein Bhojpuri accent mein announce karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Shy Soul",
+        "Judgmental Genius",
+        "Cringe Creator"
+      ]
+    },
+    {
+      "text": "gym mein romantic awaaz mein ramp walk karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Item Dancer",
+        "Cafe King/Queen"
+      ]
+    },
+    {
+      "text": "college gate mein SRK pose mein propose karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Prankster Supreme",
+        "Embaraasment Lover",
+        "Food Bandit"
+      ]
+    },
+    {
+      "text": "college gate mein lipstick lagake announce karo aur bolo 'tumhara pehla pyaar kaun tha'",
+      "personalities": [
+        "Overconfident Influencer",
+        "Unfiltered Comedian"
+      ]
+    },
+    {
+      "text": "corridor mein romantic awaaz mein dance karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Kanta Bai Roleplayer",
+        "Gym Showoff",
+        "Daredevil Dhamaka"
+      ]
+    },
+    {
+      "text": "corridor mein papa ko call karke announce karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Filmy Romantic",
+        "Makeup Master"
+      ]
+    },
+    {
+      "text": "CCD mein condom leke dance karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Shy Soul",
+        "Cringe Creator",
+        "Gym Showoff"
+      ]
+    },
+    {
+      "text": "corridor mein lipstick lagake confess karo aur bolo 'tumhare sapne kya hain'",
+      "personalities": [
+        "Loud Rebel",
+        "Traffic Blocker"
+      ]
+    },
+    {
+      "text": "CCD mein Bhojpuri accent mein makeup karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Bhojpuri Rockstar",
+        "Bold Flirt",
+        "Cafe King/Queen"
+      ]
+    },
+    {
+      "text": "CCD mein bank slip leke announce karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Item Dancer",
+        "Overconfident Influencer",
+        "Cringe Creator"
+      ]
+    },
+    {
+      "text": "staircase mein bank slip leke ramp walk karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Cringe Creator",
+        "Bold Flirt"
+      ]
+    },
+    {
+      "text": "college gate mein papa ko call karke dance karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Personal Space Invader",
+        "Filmy Romantic",
+        "Kanta Bai Roleplayer"
+      ]
+    },
+    {
+      "text": "traffic light mein SRK pose mein shout karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Chaotic Joker",
+        "Daredevil Dhamaka",
+        "Bold Flirt"
+      ]
+    },
+    {
+      "text": "traffic light mein papa ko call karke propose karo aur bolo 'tumhara bank balance kitna hai'",
+      "personalities": [
+        "Cringe Creator",
+        "Makeup Master"
+      ]
+    },
+    {
+      "text": "library mein condom leke announce karo aur bolo 'tumhara pehla pyaar kaun tha'",
+      "personalities": [
+        "Bhojpuri Rockstar",
+        "Prankster Supreme"
+      ]
+    },
+    {
+      "text": "library mein romantic awaaz mein shout karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Judgmental Genius",
+        "Stage Parrot",
+        "Loud Rebel"
+      ]
+    },
+    {
+      "text": "CCD mein romantic awaaz mein dance karo aur bolo 'tumhare crush ka naam'",
+      "personalities": [
+        "Bollywood Fanatic",
+        "Daredevil Dhamaka"
+      ]
+    },
+    {
+      "text": "library mein bank slip leke ramp walk karo aur bolo 'kya tum gay ho'",
+      "personalities": [
+        "Judgmental Genius",
+        "Fake Gay Icon"
+      ]
+    },
+    {
+      "text": "CCD mein condom leke shout karo aur bolo 'tumhara pehla pyaar kaun tha'",
+      "personalities": [
+        "Judgmental Genius",
+        "Daredevil Dhamaka"
+      ]
+    },
+    {
+      "text": "college gate mein bank slip leke shout karo aur bolo 'tum virgin ho kya'",
+      "personalities": [
+        "Chaotic Joker",
+        "Cringe Creator",
+        "Prankster Supreme"
+      ]
+    },
+    {
+      "text": "library mein Bhojpuri accent mein poochho aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Embaraasment Lover",
+        "Overconfident Influencer"
+      ]
+    },
+    {
+      "text": "CCD mein romantic awaaz mein shout karo aur bolo 'kya tumne kabhi pyaar kiya'",
+      "personalities": [
+        "Loud Rebel",
+        "Emotional Drama Queen",
+        "Kanta Bai Roleplayer"
+      ]
+    },
+    {
+      "text": "traffic light mein condom leke dance karo aur bolo 'tumne kab cheat kiya'",
+      "personalities": [
+        "Kanta Bai Roleplayer",
+        "Cheesy Proposal Artist",
+        "Bollywood Fanatic"
+      ]
+    }
+  ]
+}
