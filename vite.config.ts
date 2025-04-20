@@ -9,5 +9,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/farewell-task-helper/',  // Replace <repository-name> with your GitHub repository name
+  base: '/task/',  // Replace <repository-name> with your GitHub repository name
 });

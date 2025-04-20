@@ -43,7 +43,8 @@ function App() {
     <div className="app-container">
       <header>
         <h1>Farewell Task Helper</h1>
-        <p>pick and choose themes for your seniors farewell</p>
+        <p>pick and choose themes for your seniors farewell tasks</p>
+        <p>when you are done with that send them slams at <h2><a href='https://scene.net.in/'>scene.net.it</a></h2></p>
       </header>
 
       <main>
