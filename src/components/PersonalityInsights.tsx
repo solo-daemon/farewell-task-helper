@@ -25,7 +25,7 @@ function PersonalityInsights({ selectedPersonalities, tasks }: PersonalityInsigh
 
   return (
     <div className="personality-insights">
-      <h3>bina matlab ke insights</h3>
+      <h3>some insights</h3>
       <div className="insights-content">
         {personalityTaskCounts.map(({ personality, count }) => (
           <div key={personality} className="insight-item">

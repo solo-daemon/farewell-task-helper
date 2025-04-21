@@ -69,7 +69,7 @@ function App() {
       </main>
       
       <footer>
-        <p>© {new Date().getFullYear()} Farewell Bakchodi</p>
+        <p>© {new Date().getFullYear()} Farewell Madness</p>
       </footer>
     </div>
   );
